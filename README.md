@@ -14,3 +14,8 @@ Business Problem:
 1. Customer Segmentation: Supermarkets face the challenge of effectively segmenting their customer base to target specific demographics and consumer groups more accurately. By understanding the distinct preferences and behaviors of different customer segments, supermarkets can personalize marketing efforts, promotions, and product offerings to better resonate with each segment's needs and preferences.
 
 2. Campaign Personalization: Supermarkets lack the capability to personalize marketing campaigns based on demographic attributes, such as age, gender, income level, and household size. Without dynamic content customization and targeting capabilities, supermarkets miss opportunities to deliver relevant and personalized communications that resonate with individuals' specific demographic profiles, resulting in lower response rates and campaign effectiveness.
+
+
+LINK DASHBOARD : [TABLEAU](https://public.tableau.com/views/SupermarketCustomerSegmentationDashboard/MainDashboard?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+
+LINK STORY :[TABLEAU](https://public.tableau.com/views/SupermarketCustomerSegmentation_17174884514430/RFMSegmentation?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
